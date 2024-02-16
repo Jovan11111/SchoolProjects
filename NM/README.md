@@ -55,7 +55,7 @@ Project done for faculty course "Neural Networks".
 3. Run the code: Execute the Python script to train the CNN and evaluate its performance.
 
     ```bash
-    python cnn_image_classification.py
+    python ModelNeuralneMreze.py
     ```
 
 ## Model Architecture
